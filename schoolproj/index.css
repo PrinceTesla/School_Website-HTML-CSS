@@ -1,0 +1,83 @@
+
+    a:link{color:black}
+    a:visited{color:grey}
+    a:hover{color:red}
+    a:active{color:red}
+
+
+    pre{
+    font-family:georgia;
+    font-size: 100%;
+    font-style: bold;
+    font-variant: small-caps;
+    color:black      
+    }
+    body{
+        background-color:white;
+        background-image: none;
+        background-size: 100%;
+
+    }
+    ul {
+        list-style-type: none;
+        margin:0;
+        padding:0;
+        width:25%;
+        background-color:white;
+        position: fixed;
+        height: 100%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        overflow:auto;
+    }
+    
+    li a {
+        display:block;
+        padding:8px 0 8px 16px;
+        text-decoration: none;
+        color:black;
+    }
+    li a.visited{
+        color:grey;
+    }
+    li a.hover{
+        color: red;
+        background-color: white;
+    }
+    li a.active{
+        background-color: red;
+        color:white
+
+    }
+    dt { color:white;font-size:100%;font-family:global sans;
+        font-size:100%
+            }
+  dd { color:white;font-size:100%;font-family:global sans;
+        font-size:100%
+            }      
+  div { color:black;font-size:100%;font-family:global sans;
+        font-size:100%
+            }
+  h2 {
+        color:white;font-family:courier;font-size:100%
+    } 
+ h1 {
+        color:black;font-family:verdana;font-size:100%
+    } 
+ p { color:black;font-size:100%;font-family:global sans;
+        font-size:100%
+            }
+ li { color:black;font-size:100%;font-family:global sans;
+        font-size:100%
+            }
+ th { color:white;font-size:100%;font-family:global sans;
+        font-size:100%
+            }           
+ td { color:white;font-size:100%;font-family:global sans;
+        font-size:100%
+            }
+ a { color: white;font-family:georgia;
+        font-size:100%
+            } 
+.signup{
+    color:white;
+}
